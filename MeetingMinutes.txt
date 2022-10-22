@@ -14,3 +14,11 @@ https://www.researchgate.net/publication/235920894_Conductometric_titration_meth
 6) The field of microfluidics came up briefly. The lack of accuracy in previous Finflow realizations was also mentioned.
 
 7) An interesting paper which discussed an app for Titrations for colour-blind students was found : https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00027#
+
+Meet on 19.10.22
+
+1) The Sulphate ion was concluded as the most toxic ion
+2) The dependence of LC50 toxicity on combined effect of pH & [SULPHATE] was discussed
+3) The variance of toxicity with different species of fish was discussed
+4) A Onedrive folder was created for organizing resources & resource handles
+
